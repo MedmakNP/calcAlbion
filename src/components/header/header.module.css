@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(51, 46, 46);
+    
+}
+.title {
+    font-size: 32px;
+    font-weight: 700;
+    color: brown;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:100%;
+    width:100%;
+    max-width: 1440px;
+    margin:0 auto;
+}
